@@ -1,0 +1,34 @@
+﻿using System;
+namespace Modul004
+{
+    public class Coin
+    {
+       
+        
+            // a private variable (member) to hold the coin's present value
+            // 1 = Heads, 0 = Tails
+        private Int32 _side;
+        public Coin()
+        {
+            // the constructor will make certain that _side has a value,
+            // as a coin must be either Heads or Tails
+            Throw();
+        }
+        public string Throw()
+        {
+            // initiating a Random-object
+            Random rand = new Random();
+            // The Next-method of a Random-object returns a random number >= 0 and < 
+           
+            // (we call the method with the value 2, i.e. the return value will be 0 or
+
+            _side = rand.Next(2);
+            if (_side == 1)
+                return "Heads";
+            else
+                return "Tails";
+        
+    
+}
+    }
+}
