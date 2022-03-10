@@ -1,0 +1,14 @@
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\bin\Debug\netcoreapp3.1\Modul004.exe
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\bin\Debug\netcoreapp3.1\Modul004.deps.json
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\bin\Debug\netcoreapp3.1\Modul004.runtimeconfig.json
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\bin\Debug\netcoreapp3.1\Modul004.runtimeconfig.dev.json
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\bin\Debug\netcoreapp3.1\Modul004.dll
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\bin\Debug\netcoreapp3.1\Modul004.pdb
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\obj\Debug\netcoreapp3.1\Modul004.csproj.AssemblyReference.cache
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\obj\Debug\netcoreapp3.1\Modul004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\obj\Debug\netcoreapp3.1\Modul004.AssemblyInfoInputs.cache
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\obj\Debug\netcoreapp3.1\Modul004.AssemblyInfo.cs
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\obj\Debug\netcoreapp3.1\Modul004.csproj.CoreCompileInputs.cache
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\obj\Debug\netcoreapp3.1\Modul004.dll
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\obj\Debug\netcoreapp3.1\Modul004.pdb
+C:\Users\Chefen\Source\Repos\appudvikling\Modul004\obj\Debug\netcoreapp3.1\Modul004.genruntimeconfig.cache
