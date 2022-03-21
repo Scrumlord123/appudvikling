@@ -1,0 +1,30 @@
+﻿
+@page "/Indkøb"
+
+<PageTitle>Indkøbsliste</PageTitle>
+
+<h1>Indkøb</h1>
+
+
+<ul>
+    @foreach (var indkøb in todos)
+    {
+        <li>@Indkøb.Title</li>
+    }
+</ul>
+
+<input placeholder="Something todo" />
+<button>Add todo</button>
+
+@code {
+
+     private List<Indkøbsliste> todos = new();
+    public class Indkøbsliste
+{
+    public string? Title { get; set; }
+    public bool IsDone { get; set; }
+
+
+}
+
+}

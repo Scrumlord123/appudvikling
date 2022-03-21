@@ -1,0 +1,15 @@
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\obj\Debug\net6.0\EkstraLetOpg.csproj.AssemblyReference.cache
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\obj\Debug\net6.0\EkstraLetOpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\obj\Debug\net6.0\EkstraLetOpg.AssemblyInfoInputs.cache
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\obj\Debug\net6.0\EkstraLetOpg.AssemblyInfo.cs
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\obj\Debug\net6.0\EkstraLetOpg.csproj.CoreCompileInputs.cache
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\bin\Debug\net6.0\EkstraLetOpg.exe
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\bin\Debug\net6.0\EkstraLetOpg.deps.json
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\bin\Debug\net6.0\EkstraLetOpg.runtimeconfig.json
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\bin\Debug\net6.0\EkstraLetOpg.dll
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\bin\Debug\net6.0\EkstraLetOpg.pdb
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\obj\Debug\net6.0\EkstraLetOpg.dll
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\obj\Debug\net6.0\refint\EkstraLetOpg.dll
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\obj\Debug\net6.0\EkstraLetOpg.pdb
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\obj\Debug\net6.0\EkstraLetOpg.genruntimeconfig.cache
+C:\Users\Chefen\source\repos\appudvikling\EkstraLetOpg\EkstraLetOpg\obj\Debug\net6.0\ref\EkstraLetOpg.dll
